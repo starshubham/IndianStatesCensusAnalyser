@@ -1,0 +1,6 @@
+.vs/
+IndianStateCensusAnalyser.sln
+bin/
+obj/
+IndianStateCensusAnalyser.csproj
+CensusAnalyserTest.csproj
