@@ -36,17 +36,5 @@ namespace IndianStateCensusAnalyser.POCO
             this.density = censusDataDAO.density;
         }
 
-        //public CensusDTO(USCensusDAO uSCensusDAO)
-        //{
-        //    this.stateCode = uSCensusDAO.stateId;
-        //    this.stateName = uSCensusDAO.stateName;
-        //    this.population = uSCensusDAO.population;
-        //    this.housingUnits = uSCensusDAO.houseUnits;]
-        //    this.totalArea = uSCensusDAO.totalArea;
-        //    this.waterArea = uSCensusDAO.waterArea;
-        //    this.landArea = uSCensusDAO.landArea;
-        //    this.populationDensity = uSCensusDAO.populationDensity;
-        //    this.housingDensity = uSCensusDAO.housingDensity;
-        //}
     }
 }
